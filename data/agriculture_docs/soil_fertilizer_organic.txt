@@ -1,0 +1,70 @@
+AGRICULTURE KNOWLEDGE BASE — SOIL HEALTH, FERTILISER AND ORGANIC PRACTICES
+ICAR-style advisory summary for AgriGPT RAG. General guidance for Indian conditions.
+
+================================================================================
+1. SOIL HEALTH FUNDAMENTALS
+================================================================================
+- Soil pH: most crops grow best at pH 6.0-7.5. Potato prefers 5.2-6.8; cotton 6.2-7.5; citrus 6.0-7.5.
+- Do a soil test every 2 years (free/cheap at district KVK or state agriculture lab). Base all fertiliser decisions on the report.
+- Organic carbon below 0.5% = low-fertility soil; correct with compost before anything else.
+- Signs of micronutrient deficiency: zinc (white band on older cereal leaves), boron (soft hollow stems, blossom end problems), iron (new-leaf chlorosis in alkaline soils), magnesium (interveinal chlorosis on older leaves).
+
+================================================================================
+2. FERTILISER BASICS (NPK AND MICRONUTRIENTS)
+================================================================================
+- N (Urea 46-0-0): tillering/growth. Apply in splits; single heavy doses waste nitrogen and invite diseases.
+- P (DAP 18-46-0 / SSP 0-16-0): root and flowering. Apply in full at planting/basal.
+- K (MOP 0-0-60): tuber/fruit development and disease resistance. Deficient soils need 60-120 kg/ha.
+- Zinc: Zinc sulfate 25 kg/ha (or 1 kg/acre) is standard for rice, wheat and pulses in zinc-deficient regions. Foliar: 0.5% ZnSO4 at 10-day intervals.
+- Boron: Borax 2-5 kg/ha, or foliar 0.2% borax — critical for cotton, citrus and pulses; excess is toxic, follow soil test.
+- Sulfur: with continuous high-yield cropping, sulfur responses are increasing; DAP supplies part of it.
+- Always mix and broadcast uniformly; incorporate into the top 5 cm of soil; fertiliser near roots, not on leaves.
+
+TYPICAL FERTILISER PACKAGES (adjust to soil test):
+- Rice (irrigated): N 120, P 60, K 60 kg/ha. Urea 260 kg + SSP 150 kg + MOP 90 kg per hectare, split as described in the rice document.
+- Wheat: N 120-140, P 60, K 40-60 kg/ha; split N at sowing / CRI / crowning.
+- Maize: N 120, P 60, K 60 kg/ha; half N basal, half at knee-high.
+- Tomato (vegetable): N 100-120, P 50-60, K 100-120 kg/ha; under drip, split into 4-6 fertigation doses (N-K early, K dominant at fruit set).
+- Potato: N 100, P 50, K 120 kg/ha; K is the key element for tuber quality.
+
+================================================================================
+3. ORGANIC AND SUSTAINABLE PRACTICES
+================================================================================
+- Farmyard manure (FYM): 2.5 tonnes/ha; adds organic matter and slowly available nutrients. Use well-decomposed FYM only.
+- Vermicompost: 1-2 tonnes/ha at land preparation — improves water holding and microbial life.
+- Neem cake: 250 kg/ha (seed treatment 5% or soil application) — controls root-knot nematodes in vegetables and cotton; also a slow-release nitrogen source.
+- Trichoderma viride / Pseudomonas fluorescens: 4-10 g/kg seed treatment, or root-zone application — biocontrol for wilts and damping-off; safe, no residue.
+- DTP (Dual Purpose Treated Seeds): FYM + neem cake + Trichoderma/Pseudomonas coated seed — standard KVK recommendation for vegetables.
+- Neem oil (5000 ppm): soft-bodied pest control (aphids, whitefly, mites).
+- Biopesticides: NPV and Bt for caterpillars, Beauveria bassiana for soil insects, metarizium for white grubs.
+- Mulching: 4-5 cm of straw/rye mulch on vegetables conserves moisture, cuts weeds by up to 70% and stops soil splash (blight/spreading).
+- Green manuring: sunhemp/cluster bean in the summer idle season adds 8-10 t/ha biomass and 25-30 kg N/ha.
+
+================================================================================
+4. INTEGRATED PEST MANAGEMENT (IPM) — THE FARMER'S RULEBOOK
+================================================================================
+1. Scout the field weekly (10 random plants, all heights) — before any spray decision.
+2. Use economic threshold: spray only when pest level crosses the action level (e.g., pink bollworm 3-5% bolls; leafhopper 2-3 per whorl; aphids 50% of plants).
+3. Traps first: Pheromone traps (pink bollworm, stem borer), light traps (night moths), yellow sticky traps (whitefly/leafhopper), pheromone + protein bait for fruit flies.
+4. Biopesticides before chemicals: NPV, Bt, neem oil, Trichoderma.
+5. When a chemical is needed: choose the recommended dose exactly (under-dosing creates resistance), rotate chemical groups, respect the pre-harvest interval (PHI) — never spray within the PHI window before harvest.
+6. Protect natural enemies: ladybirds, lacewings, parasitic wasps — spray in the evening, avoid broad-spectrum pyrethroids on a fixed calendar.
+7. Record everything: pest seen, action taken, date, dose — this is what turns a farmer into a data-driven farmer (and what AgriGPT remembers for you).
+
+================================================================================
+5. IRRIGATION AND WATER MANAGEMENT
+================================================================================
+- Cereals (rice, wheat, maize): furrow/surface irrigation; rice follows the water regime in the rice document.
+- Vegetables/fruits/flowers: drip irrigation — 40-60% water saving vs flood, and it stops the leaf-wetness that causes blights.
+- Drip + fertigation: split NPK into small frequent doses; the plant gets food when it drinks.
+- Drought response: mulch immediately, shade young plants, apply humic acid/fulvic acid foliar sprays (2 g/L) to reduce stress, and defer irrigation to the critical stage (flowering/fruit set).
+- Waterlogging: drain fast; waterlogged roots suffocate and invite root rots.
+
+================================================================================
+6. CROP ROTATION AND FIELD HYGIENE
+================================================================================
+- Rotate cereals -> pulses -> vegetables/legumes. After potato/tomato (blight and wilts), take a 2-3 year break from solanaceous crops.
+- Destroy crop residue: plough in maize residue (gray leaf spot), remove cotton residue (bollworm), pull and burn wheat smut heads.
+- Weeds are disease and pest hosts — keep the field and bunds clean.
+- Buy only certified seed; treat it as per the label before sowing.
+- Wash tools between fields; disinfect pruning shears with 5% soda solution when moving between orchards.

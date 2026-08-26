@@ -1,0 +1,85 @@
+AGRICULTURE KNOWLEDGE BASE — COTTON, FRUITS AND GENERAL PROTECTION
+ICAR-style advisory summary for AgriGPT RAG.
+
+================================================================================
+COTTON
+================================================================================
+
+1. BACTERIAL LEAF BLIGHT / ANGULAR LEAF SPOT OF COTTON (model label: Cotton_Blight)
+CAUSE: Bacterium Xanthomonas citri pv. malvacearum. Spreads with rain, splashing irrigation water, and contaminated seed.
+SYMPTOMS: Small water-soaked spots on leaves that turn dark brown with yellow halos; older spots may drop out leaving shot-hole appearance. Bolls show brown spots; lint is discoloured ("dirty cotton").
+IMMEDIATE ACTION:
+- Spray Copper Oxychloride 50% WP at 3 g/litre with Streptocycline 100-150 ppm. Repeat after every rainfall.
+- Avoid sprinkler irrigation; do not work the field when plants are wet.
+PREVENTION: Use Bt hybrids with good bacterial-leaf-blight tolerance. Hot-water seed treatment (52 C, 25 min) or seed treatment with Carbendazim. 1-2 year rotation with non-hosts (e.g., wheat, paddy). Ensure drainage — waterlogged soils worsen blight.
+
+2. WILTS OF COTTON (Fusarium and Verticillium)
+CAUSE: Soil-borne fungi Fusarium and Verticillium.
+SYMPTOMS: Sudden or gradual wilting of branches/whole plants; yellowing from lower leaves; internal vascular browning on cross-section; in Verticillium, "open-leaf" cupping with dark spots.
+MANAGEMENT:
+- Uproot and destroy wilted plants; do not plant cotton or other susceptible crops in the patch for 3 years.
+- Drench with Trichoderma viride (10 g/kg soil around the plant base) or Pseudomonas fluorescens.
+- Treat seed with Trichoderma viride at 10 g/kg before sowing.
+- Grow wilt-tolerant varieties; ensure 3-year crop rotation; maintain soil organic matter.
+
+3. COTTON PESTS — QUICK IPM (Integrated Pest Management)
+- Pink bollworm: the major pest. Use Bt cotton, pheromone (PHL) + pheromone (PHC) traps at 10-15/ha, and spray only when 3-5% of bolls show infestation (e.g., Emamectin benzoate 5% SG at 0.4 g/litre). Follow your state's IPM schedule — do not spray on a calendar.
+- Bollworms/spiny caterpillar: NPV (100-150 L/ha) or Bt (2.5 kg/ha) sprays at 10-day intervals when threshold crossed; light traps 1-2/ha.
+- Whitefly: yellow sticky traps (40/ha); avoid overuse of pyrethroids (they flare whitefly populations); manage weeds.
+- Aphids: same traps; natural enemies (ladybirds) do most of the work — spray only when >50% of plants infested.
+
+================================================================================
+CITRUS
+================================================================================
+
+4. CITRUS GREENING / HLB (model label: Orange___Haunglongbing_(Citrus_greening))
+CAUSE: Bacterium (Candidatus) Liberibacter, spread by the Asian citrus psyllid. NO CURE EXISTS — management is prevention.
+SYMPTOMS: Asymmetric yellowing of leaves with one green vein; small lopsided bitter fruit; "honeycomb" pith; rapid decline over 1-3 years.
+ACTION:
+- Remove and destroy severely infected trees (uproot, burn or deep-bury).
+- Control the psyllid: Thiamethoxam 25% WG at 0.3 g/litre or Imidacloprid 17.8% SL at 0.3 ml/litre, repeated every 20-25 days during flush periods (psyllids attack young flushes).
+- Always plant only healthy, certified nursery trees with clean rootstock.
+- Maintain tree nutrition (Zn, Fe, Mg deficiencies mimic HLB — soil test before declaring HLB).
+
+================================================================================
+STONE FRUITS AND PEPPER
+================================================================================
+
+5. BACTERIAL SPOT OF PEACH (model label: Peach___Bacterial_spot)
+CAUSE: Xanthomonas spp. Wet warm weather; enters through lenticels and wounds.
+SYMPTOMS: Small dark circular spots with halos on leaves (drop out giving shot-hole), reddish-brown sunken spots on fruit, gumming on twigs.
+MANAGEMENT: Spray Copper Oxychloride 50% WP at 3 g/litre or Bordeaux 1% at dormancy and again at petal fall; repeat after rains in wet seasons. Prune for an open canopy. Remove mummified fruit.
+
+6. BACTERIAL SPOT OF BELL PEPPER (model label: Pepper,_bell___Bacterial_spot)
+CAUSE: Xanthomonas spp. Similar to tomato bacterial spot (see tomato document) — same coppers + Streptocycline strategy, clean seed, rotation, avoid wet-field work.
+
+================================================================================
+GRAPES
+================================================================================
+
+7. GRAPE BLACK ROT (model label: Grape_Black_rot)
+CAUSE: Fungus Guignardia bidwellii. Overwinters on mummified berries.
+SYMPTOMS: Tiny circular dark spots on berries that turn completely black, shriveled and hard (mummies); circular tan lesions with dark rings on leaves.
+MANAGEMENT: Remove and destroy mummies after harvest (this breaks the cycle). Spray Mancozeb 75% WP at 2.5 g/litre from bud break to fruit set, then Chlorothalonil 75% WP at 2 g/litre as needed.
+
+8. GRAPES ESCA (model label: Grape_Esca_(Black_Measles))
+CAUSE: Wood-decay fungi (Phaeoacremonium etc.) entering through pruning wounds and root damage.
+SYMPTOMS: Target-like lesions on leaves, sudden wilting of one arm/whole vine in summer, dark brown bands ("esca bands") on cut trunk, black "measles" flecks on trunk bark.
+MANAGEMENT: There is no curative spray. Prune out dead/decayed wood in dry winter; sterilise pruners between cuts; avoid trunk injury (wind breakage, frost cracking, rodent damage); plant on healthy rootstock; maintain soil moisture to reduce summer stress.
+
+9. ISARIOPSIS LEAF SPOT OF GRAPES (model label: Grape_Leaf_blight_(Isariopsis_Leaf_Spot))
+CAUSE: Fungus Isariopsis griseola (leaf blight/gray mold complex).
+SYMPTOMS: Grey-brown irregular leaf spots; berries show grey-brown sunken rot.
+MANAGEMENT: Spray Mancozeb 75% WP at 2.5 g/litre at 10-14 day intervals from flowering to veraison. Remove diseased leaves from the base of the canopy.
+
+================================================================================
+OTHER CROP NOTES (for broad-query context)
+================================================================================
+
+- CHERRY POWDERY MILDW (model label: Cherry_(including_sour)___Powdery_mildew): white powder on young leaves/fruit; spray wettable sulfur 80% WP at 2 g/litre or Azoxystrobin 23% SC at 0.5 ml/litre at green-fruit stage; prune for airflow.
+- APPLE SCAB (Apple___Apple_scab): olive-green velvety spots on leaves, cracked corky spots on fruit. Spray Captan 50% WP at 2 g/litre or Mancozeb at 2.5 g/litre starting from green-tip, repeat every 10-14 days through spring; remove fallen leaves in autumn.
+- APPLE CEDAR RUST (Apple___Cedar_rust): orange-yellow spots on leaves, galls on juniper/cedar hosts. Remove nearby junipers where possible; spray Mancozeb during leaf-out.
+- APPLE BLACK ROT (Apple___Black_rot): blackened rotting fruit (mummies) and leaf spots; remove mummies, spray Mancozeb/Chlorothalonil at 10-day intervals in wet springs.
+- STRAWBERRY LEAF SCORCH (Strawberry___Leaf_scorch): purple-brown irregular spots on upper leaf surface; spray Mancozeb 75% WP at 2.5 g/litre at 10-day intervals; remove old leaves; rotate away from strawberry/tomato for 2 years.
+- SQUASH POWDERY MILDW (Squash_Powdery_mildew): white powder on leaves/stems/fruit of cucumber, pumpkin, squash; spray wettable sulfur 80% WP at 2 g/litre or Potassium bicarbonate 5 g/litre (evening) or Azoxystrobin 23% SC at 0.5 ml/litre; plant early to escape hot-dry stress.
+- BLUEBERRY / RASPBERRY: fungal diseases follow the same logic — remove weak canes, improve airflow, and time fungicide sprays to flowering; consult your state KVK for the exact fungicide calendar.

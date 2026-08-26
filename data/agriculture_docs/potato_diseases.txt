@@ -1,0 +1,53 @@
+AGRICULTURE KNOWLEDGE BASE — POTATO DISEASES
+ICAR-style advisory summary for AgriGPT RAG. Crop: Potato (Solanum tuberosum).
+
+================================================================================
+1. LATE BLIGHT OF POTATO (model label: Potato_Late_blight)
+================================================================================
+CAUSE: Oomycete Phytophthora infestans. The most destructive potato disease. Favourable at 18-24 C with humidity above 90% and long leaf wetness.
+SYMPTOMS: Water-soaked greasy-dark patches on leaf tips and margins; white mould on the underside in the morning. Tuber rot follows in storage (brown leathery rot).
+IMMEDIATE ACTION:
+- Spray immediately with Metalaxyl 8% + Mancozeb 64% WP at 2.5 g/litre, or Mancozeb 75% WP at 2.5 g/litre, or Cymoxanil 8% + Mancozeb 64% WP at 2.5 g/litre. Repeat every 7 days in wet weather.
+- Remove and destroy severely infected haulms; do not take infected haulms home.
+PREVENTION: Plant certified seed tubers. Early-maturing varieties reduce risk. Avoid overhead irrigation. Maintain field drainage. 2-3 year rotation away from potato/tomato. Do not store tubers with infected haulm attached.
+
+================================================================================
+2. EARLY BLIGHT OF POTATO (model label: Potato_Early_blight)
+================================================================================
+CAUSE: Fungus Alternaria solani. Appears mid to late season, often on stressed or nitrogen-deficient plants.
+SYMPTOMS: Dark brown spots with concentric rings on older lower leaves; leaves yellow and drop early. Tuber surface may show dry rot.
+IMMEDIATE ACTION:
+- Spray Mancozeb 75% WP at 2.5 g/litre or Chlorothalonil 75% WP at 2 g/litre; repeat at 10-day intervals.
+- Top-dress with balanced fertiliser if nutrient stress is visible; irrigate on schedule (stress worsens early blight).
+PREVENTION: Mulching to prevent soil splash. Balanced nutrition, especially potassium. Remove volunteer plants and crop residue.
+
+================================================================================
+3. COMMON SCAB OF POTATO
+================================================================================
+CAUSE: Bacterium Streptomyces scabies. Affects tubers in soil; not visible at harvest but shows as rough corky patches.
+SYMPTOMS: Raised or sunken corky scabs on tubers, reducing market value.
+MANAGEMENT:
+- Adjust soil pH to 5.2-6.0 before planting (add lime for alkaline soils).
+- Use certified scab-free seed.
+- Keep soil moisture steady through the tuber bulging stage.
+- Avoid excess farmyard manure immediately before planting (scab is worse in fresh, high-pH manure); use well-decomposed compost applied earlier.
+
+================================================================================
+4. WILTS OF POTATO (Fusarium / Verticillium)
+================================================================================
+CAUSE: Soil-borne fungi Fusarium spp. and Verticillium dahliae.
+SYMPTOMS: Sudden wilting of one side or whole plant; yellowing from lower leaves; browning of vascular rings in the stem on cross-section; plants dry out while adjacent soil stays moist.
+IMMEDIATE ACTION:
+- Uproot and destroy wilted plants; mark the spot to avoid planting potato/tomato there for 2-3 years.
+- Drench affected plant bases with Trichoderma viride or Pseudomonas fluorescens suspension.
+PREVENTION: 3-year rotation. Certified seed tubers. Treat seed tubers with Carbendazim 50% WP at 2 g/kg before planting where recommended. Use resistant varieties.
+
+================================================================================
+5. GENERAL POTATO CULTURAL PRACTICES (for advisory context)
+================================================================================
+- Sowing: 25-30 cm row spacing, 20-25 cm plant spacing in the row.
+- Fertiliser (typical): N 100, P 50, K 120 kg/ha — apply 1/3 N, full P, full K at planting; rest of N split 25-30 days after emergence and before tuber bulging.
+- Irrigation: critical at stolonisation and tuber bulging; avoid waterlogging.
+- Earth up 2-3 times to protect tubers from sunlight (prevents green solanine).
+- Harvest when haulms senesce naturally; cure tubers 7-10 days in shade before storage.
+- Store at 8-10 C, 90-95% humidity, in the dark.

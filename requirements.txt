@@ -1,0 +1,21 @@
+# AgriGPT MVP — Python dependencies
+# Run:  pip install -r requirements.txt
+
+fastapi
+uvicorn[standard]
+python-multipart
+python-jose[cryptography]
+passlib
+bcrypt==4.0.1          # pinned: passlib 1.7.4 breaks with bcrypt >= 4.1
+sqlalchemy
+slowapi
+python-dotenv
+groq
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+transformers
+torch
+Pillow

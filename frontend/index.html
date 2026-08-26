@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AgriGPT — AI Agriculture Advisor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ================= AUTH SCREEN ================= -->
+  <div id="auth-screen">
+    <div class="auth-card">
+      <div class="logo">🌾 AgriGPT</div>
+      <p class="tagline">Your 24×7 AI agriculture advisor — ask in text, speak in voice, or upload a crop photo</p>
+      <div class="tabs">
+        <button id="tab-login" class="active" onclick="switchTab('login')">Login</button>
+        <button id="tab-signup" onclick="switchTab('signup')">Sign up</button>
+      </div>
+      <form id="auth-form">
+        <input type="email" id="email" placeholder="Email" required autocomplete="email" />
+        <input type="password" id="password" placeholder="Password (min 6 characters)" required minlength="6" autocomplete="current-password" />
+        <div id="signup-fields" style="display:none">
+          <select id="language">
+            <option value="en">English</option>
+            <option value="hi">हिंदी (Hindi)</option>
+            <option value="ta">தமிழ் (Tamil)</option>
+            <option value="te">తెలుగు (Telugu)</option>
+            <option value="ml">മലയാളം (Malayalam)</option>
+            <option value="kn">ಕನ್ನಡ (Kannada)</option>
+            <option value="bn">বাংলা (Bengali)</option>
+            <option value="pa">ਪੰਜਾਬੀ (Punjabi)</option>
+          </select>
+        </div>
+        <button type="submit" id="auth-submit">Login</button>
+        <p id="auth-error" class="error"></p>
+      </form>
+      <p class="foot">Built with RAG + Llama 3.1 · FastAPI · Chroma · JWT</p>
+    </div>
+  </div>
+
+  <!-- ================= CHAT SCREEN ================= -->
+  <div id="chat-screen" style="display:none">
+    <header>
+      <div class="logo small">🌾 AgriGPT</div>
+      <div class="header-right">
+        <span id="user-label" class="badge"></span>
+        <select id="lang-switch" title="Reply language">
+          <option value="en">EN</option>
+          <option value="hi">हिंदी</option>
+          <option value="ta">தமிழ்</option>
+          <option value="te">తెలుగు</option>
+          <option value="ml">മലയാളം</option>
+          <option value="kn">ಕನ್ನಡ</option>
+          <option value="bn">বাংলা</option>
+          <option value="pa">ਪੰਜਾਬੀ</option>
+        </select>
+        <button id="logout-btn" class="ghost">Logout</button>
+      </div>
+    </header>
+
+    <main id="chat"></main>
+
+    <div id="image-preview" style="display:none">
+      <img id="preview-img" alt="crop photo preview" />
+      <button id="remove-image" title="Remove image">✕</button>
+      <span class="preview-note">Photo attached — will be scanned for disease</span>
+    </div>
+
+    <footer>
+      <label class="icon-btn" title="Upload crop photo">
+        📷<input type="file" id="file" accept="image/*" style="display:none" />
+      </label>
+      <input type="text" id="message" placeholder="Ask about your crop, disease, soil, fertilizer…" />
+      <button class="icon-btn" id="mic" title="Voice input (Chrome/Edge)">🎤</button>
+      <button class="icon-btn" id="stop-voice" title="Stop voice">⏹</button>
+      <button id="send" class="send" title="Send">➤</button>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

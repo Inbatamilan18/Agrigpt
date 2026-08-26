@@ -1,0 +1,86 @@
+AGRICULTURE KNOWLEDGE BASE — TOMATO DISEASES
+ICAR-style advisory summary for AgriGPT RAG. Crop: Tomato (Solanum lycopersicum).
+
+================================================================================
+1. LATE BLIGHT OF TOMATO (model label: Tomato_Late_blight)
+================================================================================
+CAUSE: Fungus Phytophthora infestans. Spreads fast in cool (18-24 C), humid weather with long leaf wetness.
+SYMPTOMS: Water-soaked dark patches on leaves, white fungal growth on the underside in morning humidity. Fruits turn brown-black, hard and leathery with a firm margin. Plants can collapse in 3-4 days in heavy epidemics.
+IMMEDIATE ACTION:
+- Remove and destroy severely infected plants and infected debris.
+- Spray Mancozeb 75% WP at 2.5 g/litre, or Metalaxyl 8% + Mancozeb 64% WP at 2.5 g/litre, or Copper Oxychloride 50% WP at 3 g/litre. Repeat every 7-10 days during wet weather.
+- Stop overhead irrigation; water the base of the plant in the morning only.
+PREVENTION: Grow resistant/tolerant hybrid varieties. Avoid continuous tomato/potato cropping (2-3 year rotation with non-solanaceous crops). Provide good spacing and staking for air circulation. Use mulch to stop soil splash. Do not work in the field when plants are wet.
+
+================================================================================
+2. EARLY BLIGHT OF TOMATO (model label: Tomato_Early_blight)
+================================================================================
+CAUSE: Fungus Alternaria solani. Common in warm weather and on older, stressed plants.
+SYMPTOMS: Brown circular spots with concentric rings (target-like) starting on older, lower leaves. Leaves yellow and drop, exposing fruit to sunscald.
+IMMEDIATE ACTION:
+- Remove and destroy the lower infected leaves.
+- Spray Mancozeb 75% WP at 2.5 g/litre, or Chlorothalonil 75% WP at 2 g/litre, or Azoxystrobin 23% SC at 0.5 ml/litre. Repeat at 10-day intervals.
+- Correct nutrient deficiencies (often potassium and calcium) with balanced fertigation.
+PREVENTION: Mulch the ground. Avoid overhead irrigation. Rotate crops. Remove volunteer tomato plants near the field.
+
+================================================================================
+3. LEAF MOLD OF TOMATO (model label: Tomato_LEAF_MOLD)
+================================================================================
+CAUSE: Fungus Fulvia fulva. Occurs in very humid, poorly ventilated conditions (greenhouses, dense canopies, high rainfall).
+SYMPTOMS: Pale yellow spots on the upper leaf surface; olive-green to brown velvety fungal growth on the underside. Leaves dry and die.
+IMMEDIATE ACTION:
+- Improve ventilation and reduce humidity immediately; open greenhouse covers.
+- Remove and destroy infected leaves.
+- Spray Mancozeb 75% WP at 2.5 g/litre. Repeat weekly during humid periods.
+PREVENTION: Wider spacing and pruning for airflow. Water in the morning only. Remove lower leaves that touch the soil.
+
+================================================================================
+4. SEPTORIA LEAF SPOT OF TOMATO (model label: Tomato_Septoria_leaf_spot)
+================================================================================
+CAUSE: Fungus Septoria lycopersici.
+SYMPTOMS: Many small circular spots (2-4 mm) with grey centres and dark margins on lower leaves; tiny black fruiting bodies (pycnidia) visible in the centre. Severe defoliation in warm, wet weather.
+IMMEDIATE ACTION:
+- Remove infected lower leaves; do not compost them.
+- Spray Mancozeb 75% WP at 2.5 g/litre or Chlorothalonil 75% WP at 2 g/litre; repeat at 10-day intervals.
+PREVENTION: 3-year rotation away from tomato. Destroy crop residue after harvest. Use resistant varieties where available.
+
+================================================================================
+5. BACTERIAL SPOT OF TOMATO (model label: Tomato_Bacterial_spot)
+================================================================================
+CAUSE: Bacterium Xanthomonas spp. Survives in seeds and crop debris. Spreads with rain splashing and irrigation water.
+SYMPTOMS: Small dark brown to black raised spots on leaves and fruit; spots on fruit cause cracking and corky scabs. Yellow halos around spots on young leaves.
+IMMEDIATE ACTION:
+- Spray Copper Oxychloride 50% WP at 3 g/litre, or Bordeaux mixture 1% (10 g copper sulfate + 10 g lime in 10 L water), optionally with Streptocycline 100 ppm. Repeat after every rainfall.
+- Avoid working in the field when wet; avoid sprinkler irrigation.
+PREVENTION: Use disease-free, certified seed. Hot-water seed treatment (52 C for 25 min). 3-year rotation. Grow resistant hybrid varieties. Disinfect tools with 5% household soda solution.
+
+================================================================================
+6. TARGET SPOT OF TOMATO (model label: Tomato_Target_Spot)
+================================================================================
+CAUSE: Fungus Corynespora cassiicola. Warm and humid conditions.
+SYMPTOMS: Large brown lesions with distinct concentric rings (bull's-eye target), dark margins; small black specks (acervuli) in the centre. Occurs on leaves, stems and fruit; fruit spots crack.
+IMMEDIATE ACTION:
+- Spray Mancozeb 75% WP at 2.5 g/litre or Chlorothalonil 75% WP at 2 g/litre; repeat at 10-day intervals.
+- Remove badly affected leaves.
+PREVENTION: Rotate crops, destroy residue, avoid overhead irrigation, ensure good airflow.
+
+================================================================================
+7. TOMATO MOSAIC VIRUS (model labels: Tomato_Tomato_mosaic_virus, Tomato_Mosaic_virus)
+================================================================================
+CAUSE: Tobacco/Tomato mosaic virus (TMV). Spread by contaminated hands, tools, seed and some insects (not by aphids).
+SYMPTOMS: Mosaic pattern of light and dark green on young leaves; stunted growth; fruit may be mottled.
+IMMEDIATE ACTION:
+- Remove and destroy symptomatic plants immediately (do not compost).
+- Wash hands and tools with soap; disinfect stakes and pruning tools.
+- Control aphid and whitefly populations as secondary vectors.
+PREVENTION: Use virus-free certified seed and nursery plants. Grow resistant hybrids. Avoid handling tobacco near tomato fields.
+
+================================================================================
+8. TWO-SPOTTED SPIDER MITE (model label: Tomato_Spider_mites Two-spotted_spider_mite)
+================================================================================
+CAUSE: Mite Tetranychus urticae. Thrives in hot, dry weather.
+SYMPTOMS: Tiny yellowish-white speckles on upper leaf surface; fine webbing on leaf undersides and young shoots; leaves dry and fall.
+IMMEDIATE ACTION:
+- Spray wettable sulfur 80% WP at 2 g/litre, or Hexythiazox 5% SC at 1 ml/litre, or wet the plants with a strong jet of water.
+- Remove and destroy heavily infested plants and nearby madder/mulberry weeds (alternate hosts).
+PREVENTION: Maintain field moisture; remove weeds; use resistant varieties; avoid overuse of certain insecticides that remove natural predators.

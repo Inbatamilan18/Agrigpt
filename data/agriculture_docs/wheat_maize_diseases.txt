@@ -1,0 +1,69 @@
+AGRICULTURE KNOWLEDGE BASE — WHEAT AND MAIZE DISEASES
+ICAR-style advisory summary for AgriGPT RAG. Crops: Wheat (Triticum aestivum) and Maize/Corn (Zea mays).
+
+================================================================================
+WHEAT
+================================================================================
+
+1. STRIPE (YELLOW) RUST OF WHEAT (model context: Wheat stripe rust / leaf rust)
+CAUSE: Fungus Puccinia striiformis. Cool (15-20 C), moist conditions; the most dangerous wheat rust because epidemics can build up fast and spread by air.
+SYMPTOMS: Bright yellow oval pustules arranged in distinct stripes along the leaf veins; grains shrivel, yield and quality drop sharply.
+IMMEDIATE ACTION:
+- Spray Propiconazole 25% EC at 0.3-0.5 ml/litre, or Tebuconazole 250 EC at 1 ml/litre, or Difenoconazole 25% EC at 1 ml/litre. Repeat at 15 days if rust persists.
+- Watch fields weekly from tillering to grain fill.
+PREVENTION: Grow rust-resistant varieties (varietal resistance shifts each season — get current recommendations from your district KVK). Sowing at the recommended local date (too-early or too-late sowing raises rust risk). Avoid over-irrigation in late season.
+
+2. LEAF RUST AND BROWN RUST OF WHEAT
+CAUSE: Puccinia triticina (leaf rust, orange-brown scattered pustules) and Puccinia dentita (brown rust, larger dark-brown pustules, mostly on older leaves).
+SYMPTOMS: Scattered orange to dark-brown pustules on leaf surfaces (not in stripes); defoliation reduces grain filling.
+MANAGEMENT: Same fungicides as stripe rust — Propiconazole 25% EC 0.3 ml/litre or Tebuconazole 250 EC 1 ml/litre at first appearance. Leaf rust is most active in warm, humid weather late in the season.
+
+3. POWDERY MILDW OF WHEAT
+CAUSE: Fungus Blumeria graminis. Cool, humid, dense canopies.
+SYMPTOMS: White powdery fungal coating on upper leaf surfaces, later turning greyish-brown; severe in dense, nitrogen-heavy stands.
+MANAGEMENT: Spray wettable sulfur 80% WP at 2 g/litre or Propiconazole 25% EC at 0.3 ml/litre. Avoid overcrowding and excess nitrogen; ensure spacing and airflow.
+
+4. LOOSE SMUT OF WHEAT
+CAUSE: Seed-borne fungus Urocystis tritici.
+SYMPTOMS: Entire spike replaced by a mass of dark-brown smut powder; the head "loosens" and collapses at flowering.
+MANAGEMENT (prevention is everything):
+- Treat seed with Triadimefon 75% WP at 2 g/kg seed, or Thiophanate-methyl 75% WP at 2 g/kg seed, before sowing.
+- Use certified smut-free seed.
+- Harvest infected plots last and burn/destroy smutted heads before they release spores.
+
+5. GENERAL WHEAT PRACTICES (for advisory context)
+- Typical fertiliser: N 120-140, P 60, K 40-60 kg/ha. Apply full P and K, 1/3 N at sowing; 1/3 N at crown root initiation (20-25 days); balance at 1st irrigation (crowning).
+- Sowing date matters more than any spray: follow your district's recommended window.
+- 2-3 irrigations at 25, 45 and 65 days (rainfed: rely on monsoon, no irrigation).
+- Zinc: apply Zinc sulfate 25 kg/ha in zinc-deficient soils (very common in black cotton soils).
+
+================================================================================
+MAIZE / CORN
+================================================================================
+
+6. NORTHERN LEAF BLIGHT OF MAIZE (model label: Corn_(maize)___Northern_Leaf_Blight)
+CAUSE: Fungus Exserohilum turcicum. Warm and humid weather.
+SYMPTOMS: Long (5-15 cm), cigar-shaped grey-green lesions parallel to the leaf veins; in severe cases whole leaves turn brown and die, weakening stalks and exposing ears to ear rot.
+IMMEDIATE ACTION:
+- Spray Mancozeb 75% WP at 2.5 g/litre, or Chlorothalonil 75% WP at 2 g/litre, or Azoxystrobin 23% SC at 0.5 ml/litre. Repeat at 12-15 days during humid spells.
+- Focus sprays on the upper whorl and ears at tassel emergence.
+PREVENTION: Plough in maize residue after harvest (the fungus survives on residue). 2-3 year rotation with non-hosts (e.g., paddy, soybean). Grow hybrids with good tolerance.
+
+7. COMMON RUST OF MAIZE (model label: Corn_(maize)___Common_rust_)
+CAUSE: Fungus Puccinia sorghi. Cooler, moist weather late in the season.
+SYMPTOMS: Small (2-4 mm) reddish-brown circular pustules scattered on BOTH sides of leaves; in heavy infections ears fail to fill.
+MANAGEMENT: Spray Propiconazole 25% EC at 0.3 ml/litre at first appearance if infection exceeds 20% of the leaf area; otherwise a single fungicide application at grain fill is usually enough.
+
+8. GRAY LEAF SPOT OF MAIZE (model label: Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot)
+CAUSE: Fungus Cercospora zeae-maydis. Continuous maize monoculture + warm humid weather = epidemics.
+SYMPTOMS: Rectangular grey-brown lesions bounded by leaf veins (unlike the cigar-shaped northern leaf blight), with dark margins. Spots start on lower leaves and move up.
+IMMEDIATE ACTION:
+- Spray Azoxystrobin 23% SC at 0.5 ml/litre, or Mancozeb 75% WP at 2.5 g/litre; repeat at 12-15 days.
+PREVENTION: Rotate away from maize for at least one season. Destroy residue. Use tolerant hybrids.
+
+9. GENERAL MAIZE PRACTICES (for advisory context)
+- Typical fertiliser: N 120, P 60, K 60 kg/ha. Apply full P and K and 1/2 N at land preparation; balance N at knee-high (30-35 days) — this split is critical for rust/spot response.
+- 60x20 cm spacing (single row) or double-row 90 cm x (60x20).
+- Irrigation at 30 (knee-high), 45 (tasseling) and 60 (grain filling) days; avoid water stress at tasseling.
+- Ear rot (Fusarium/Diplodia) prevention: control ear-feeding insects (stem borer, maize ear head caterpillar) at silk stage; do not store ears with husks removed and damp.
+- Insect management: pheromone traps for stem borer (40/ha), light traps (2-3/ha), and Bt hybrids for caterpillars.

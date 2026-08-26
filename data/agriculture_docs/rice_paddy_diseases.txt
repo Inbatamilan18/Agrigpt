@@ -1,0 +1,70 @@
+AGRICULTURE KNOWLEDGE BASE — RICE / PADDY DISEASES
+ICAR-style advisory summary for AgriGPT RAG. Crop: Rice (Oryza sativa).
+
+================================================================================
+1. RICE BLAST (model label: Rice_Blast)
+================================================================================
+CAUSE: Fungus Magnaporthe oryzae (Pyricularia oryzae). Favourable at 24-32 C with high humidity. Three forms: leaf blast, node blast, neck blast. Neck blast (at flowering) causes the most yield loss — white/loose empty panics ("white ear").
+SYMPTOMS: Leaf: spindle-shaped grey-brown lesions with dark borders and pale centres. Node: nodes turn brown and snap, panicles fall. Neck: neck rots, panicle turns white and dies.
+IMMEDIATE ACTION:
+- Spray Tricyclazole 75% WP at 0.6-0.75 g/litre. A critical spray is at pre-boot to boot stage; repeat at 15-day interval if risk continues.
+- Avoid top-dressing urea at or after boot stage.
+- Remove and destroy heavily infected panicles.
+PREVENTION: Grow resistant varieties (varietal resistance changes with pathogen races — rotate varieties). Split urea application (avoid excess single N dose). Balanced K helps. Maintain proper water depth — avoid continuous deep standing water. Remove volunteer/rag grass and other grass weeds that harbour the fungus. Treat seed with Tricyclazole 2 g/kg or Carbendazim 2 g/kg.
+
+================================================================================
+2. BROWN SPOT OF RICE
+================================================================================
+CAUSE: Mostly zinc deficiency (often with low organic matter and continuous paddy). A fungus (Curvularia) can make the spots worse.
+SYMPTOMS: Round brown spots (3-6 mm) on older leaves, often in a row along the midrib; leaves become brown from the tip. Confused with drought stress.
+MANAGEMENT:
+- Apply Zinc sulfate 1 kg/acre (25 kg/ha) at pre-land preparation, or foliar spray of 0.5% Zinc sulfate at 4-6 sprays from 30 days after transplanting at 10-day intervals.
+- Add 2.5 tonnes/ha of well-decomposed FYM or vermicompost.
+- Avoid continuous rice-rice cropping; rotate with a non-paddy crop.
+PREVENTION: Soil test every 2 years and correct zinc as per report.
+
+================================================================================
+3. BACTERIAL LEAF BLIGHT / WILT OF RICE (BLB)
+================================================================================
+CAUSE: Bacterium Xanthomonas oryzae pv. oryzae. Enters through leaf wounds (transplanting, typhoons, mowing). Favourable with excess nitrogen and high humidity.
+SYMPTOMS: Water-soaked yellowish streaks spreading from leaf tips; later leaves dry from the tip down ("hopperburn"); in severe cases the plant wilts as if scalded.
+IMMEDIATE ACTION:
+- Spray Mancozeb 75% WP at 2.5 g/litre with Streptocycline 100 ppm, or Copper Oxychloride 50% WP at 3 g/litre. Repeat at 10-day intervals.
+- Stop top-dressing urea immediately if plants show BLB at stem extension stage.
+PREVENTION: Use BLB-tolerant varieties. Avoid excess nitrogen and its late application. Raise bunds to prevent flood water (the bacterium travels in water). Avoid transplanting with very large plants. Treat seed.
+
+================================================================================
+4. FALSE SMUT OF RICE
+================================================================================
+CAUSE: Fungus Ustilaginoidea virens. Favourable with high temperature, high humidity and excess nitrogen at flowering.
+SYMPTOMS: Individual grains replaced by large olive-green to black poisonous balls (smut balls); later they turn dark and powdery.
+IMMEDIATE ACTION:
+- Collect and destroy infected panicles before the smut balls rupture (they are toxic to humans and cattle).
+- Spray Mancozeb 75% WP at 2.5 g/litre or Propineb 75% WP at 2.5 g/litre at flowering.
+- Do not apply urea top-dressing at flowering.
+PREVENTION: Balanced nutrition (avoid excess N at panicle initiation). Grow tolerant varieties. Seed treatment.
+
+================================================================================
+5. TUNGRO DISEASE OF RICE
+================================================================================
+CAUSE: Tungro virus, spread by the green rice leafhopper (Nephotettix spp.).
+SYMPTOMS: Yellowing between leaf veins (veins stay green), stunted plants, delayed flowering, reduced grain filling; often patchy.
+IMMEDIATE ACTION:
+- Uproot and destroy yellow-stunted plants (do not compost).
+- Spray insecticide to control the leafhopper: Imidacloprid 17.8% SL at 0.3 ml/litre or Thiamethoxam 25% WG at 0.3 g/litre.
+PREVENTION: Synchronize sowing (avoid staggered ages of crop in the same area). Grow resistant varieties. Remove alternate hosts (wild grasses). Avoid excess nitrogen.
+
+================================================================================
+6. ROOT ROT AND OTHER SOIL PROBLEMS OF RICE
+================================================================================
+- Root rot: caused by Pythium and other fungi in waterlogged, low-oxygen soil. Symptoms: brown-black roots, stunted pale plants. Management: drain and expose the field for a few days (submergence-exposure cycling), apply 2.5 t/ha FYM, use disease-free seed.
+- Weevil (stem borer damage appears as "white ear"): manage with pheromone traps, light traps, and resistant varieties; avoid extreme drought stress at tillering.
+- Rice grass weeds: use recommended pre-emergence/herbicide package per state KVK schedule; mechanical weeding at 15 and 30 days.
+
+================================================================================
+7. GENERAL RICE PRACTICES (for advisory context)
+================================================================================
+- Typical fertiliser for irrigated paddy: N 120, P 60, K 60 kg/ha. Apply full P and K, and 1/3 N at pre-land preparation or at transplanting; 1/3 N at maximum tillering; balance at pre-boot. Never apply N at flowering or after.
+- Maintain 2-3 cm water depth in vegetative stages; drain before flowering for 3-5 days (aerobic period improves panicle emergence and reduces blast/fungal risk).
+- Transplant 5-6 leaf-stage seedlings at 20x20 cm (or 20x15 cm for high-yielding varieties).
+- Water management beats most disease sprays: stable moisture, no deep continuous standing water, no drought stress.

@@ -17,5 +17,5 @@ langchain-text-splitters
 chromadb
 sentence-transformers
 transformers
-torch==2.6.0
+torch
 Pillow

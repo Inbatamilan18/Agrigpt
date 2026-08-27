@@ -1,3 +1,11 @@
+---
+title: AgriGPT
+emoji: 🌾
+colorFrom: green
+colorTo: yellow
+sdk: docker
+app_port: 7860
+---
 # 🌾 AgriGPT — Multimodal RAG Agriculture Advisor (MVP)
 
 A chatbot that works like a 24×7 Kisan Call Center: the farmer types a question,
